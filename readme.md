@@ -24,10 +24,9 @@ Tenho alguns repositórios em algumas aplicações pessoais em Laravel e alguns 
 de 20 funcionários e mais de 100 clientes utilizando as aplicações no qual os clientes
 fazem criação de chamados técnicos para a empresa administradora e o administrador
 direciona esse chamado para o técnico específico para o mesmo ir ao atendimento e
-gerar relatórios em PDF para controle geral.
+gerar relatórios em PDF para controle geral (07/2020 - atual).
 
-* Estágio de desenvolvedor front-end (Utilizando o framework Zeedhi) e backend (usando
-PHP) na Teknisa, utilizando metodologias ágeis em um time (2 meses - atual).
+* Estágio de desenvolvedor front-end (Utilizando o framework Zeedhi) e backend (usando PHP) na Teknisa, utilizando metodologias ágeis em um time (12/2020 - atual).
   
 ## Laravel
 
