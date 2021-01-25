@@ -18,6 +18,17 @@ Tenho alguns repositórios em algumas aplicações pessoais em Laravel e alguns 
 
 * Apesar de não ter trabalhado com, adoro utilizar o framework Laravel. 
   
+ ## Experiência
+ 
+* Prestação de serviço construindo uma aplicação em NodeJS, React e React Native. Mais
+de 20 funcionários e mais de 100 clientes utilizando as aplicações no qual os clientes
+fazem criação de chamados técnicos para a empresa administradora e o administrador
+direciona esse chamado para o técnico específico para o mesmo ir ao atendimento e
+gerar relatórios em PDF para controle geral.
+
+* Estágio de desenvolvedor front-end (Utilizando o framework Zeedhi) e backend (usando
+PHP) na Teknisa, utilizando metodologias ágeis em um time (2 meses - atual).
+  
 ## Laravel
 
 Aplicações hospedadas em laravel:
