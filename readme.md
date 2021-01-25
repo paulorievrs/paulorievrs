@@ -23,7 +23,7 @@ Tenho alguns repositórios em algumas aplicações pessoais em Laravel e alguns 
 Aplicações hospedadas em laravel:
 
 * https://paulorievrs.site
- - Site pessoal aonde falo mais sobre meu Instagram e coloco mais informações das postagens.
+  Site pessoal aonde falo mais sobre meu Instagram e coloco mais informações das postagens.
  
 * https://blackphoenix.com.br
- - Sou dono de uma organização de E-sports que contém atualmente uma equipe feminina na qual precisava de um lugar para se organizar e expor informações do time. Há além da homepage um dashboard no qual elas colocam informações dos jogos e pessoais para se gerir.
+  Sou dono de uma organização de E-sports que contém atualmente uma equipe feminina na qual precisava de um lugar para se organizar e expor informações do time. Há além da homepage um dashboard no qual elas colocam informações dos jogos e pessoais para se gerir.
