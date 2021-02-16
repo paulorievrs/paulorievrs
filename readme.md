@@ -37,3 +37,7 @@ Aplicações hospedadas em laravel:
  
 * https://blackphoenix.com.br
   Sou dono de uma organização de E-sports que contém atualmente uma equipe feminina na qual precisava de um lugar para se organizar e expor informações do time. Há além da homepage um dashboard no qual elas colocam informações dos jogos e pessoais para se gerir.
+
+# Github
+
+p> <img align= "center" src="https://github-readme-stats.vercel.app/api?username=paulorievrs&show_icons=true&theme=radical" alt="Paulo Rievrs Readme Stats" ></p>
