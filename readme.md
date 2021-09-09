@@ -7,8 +7,8 @@ Tenho alguns repositórios em algumas aplicações pessoais em Laravel e alguns 
 * **Nome**: Paulo Rievrs
 * **Idade**: 20
 * **Living in**: Betim - Minas Gerais, Brazil
-* **Trabalhei com**: PHP, Node, ReactJS, React Native, SQL
-* **Faculdade**: PUC MINAS - Ciência da computação (Em curso).
+* **Trabalhei com**: PHP, Laravel, ReactJS, React Native, SQL
+* **Faculdade**: PUC MINAS - Engenharia de Software (Em curso).
 
 ## Sobre mim
 
@@ -26,7 +26,11 @@ fazem criação de chamados técnicos para a empresa administradora e o administ
 direciona esse chamado para o técnico específico para o mesmo ir ao atendimento e
 gerar relatórios em PDF para controle geral (07/2020 - atual).
 
-* Estágio de desenvolvedor front-end (Utilizando o framework Zeedhi) e backend (usando PHP) na Teknisa, utilizando metodologias ágeis em um time (12/2020 - atual).
+* Desenvolvimento de sistemas web em Laravel e React.
+Inicialização de projeto, criação da estrutura de pastas e de arquitetura, definição de modelos e de estrutura do código para seguir, review de merge requests do projeto e ensino das ferramentas para novos programadores do projeto.
+Trabalho em equipe com desenvolvimento ágil (Scrum e Kanban) Teknisa - (04/2021 - 08/2021).
+
+* Estágio de desenvolvedor front-end (Utilizando o framework Zeedhi) e backend (usando PHP) na Teknisa, utilizando metodologias ágeis em um time (12/2020 - 03/2021).
   
 ## Laravel
 
