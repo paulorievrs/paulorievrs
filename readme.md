@@ -19,9 +19,3 @@
 * **Age**: 21
 * **Living in**: Minas Gerais, Brazil
 * **Skills**: PHP, Laravel, Javascript, Typescript, React, React-Native, NestJS
-  
-
-# Github
-<div style="display: flex; justify-content: space-between; align-items center;">
-    <img align= "center" src="https://github-readme-stats.vercel.app/api?username=paulorievrs&show_icons=true&theme=radical" alt="Paulo Rievrs Readme Stats" />
-</div>
