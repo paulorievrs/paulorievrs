@@ -7,7 +7,7 @@ Some repositories that I created to learn or to develop stuff for myself.
 * **Name**: Paulo Rievrs
 * **Age**: 21
 * **Living in**: Betim - Minas Gerais, Brazil
-* **Worked with**: PHP, Laravel, Javascript, Typescript, React, React-Native, NestJS
+* **Skills**: PHP, Laravel, Javascript, Typescript, React, React-Native, NestJS
 * **Study**: PUC MINAS - Engenharia de Software (Em curso).
 
  ## Experience
