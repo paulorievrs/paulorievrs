@@ -13,9 +13,15 @@
     </a>
 </div>
 
-## Info
+### Info
 
 * **Name**: Paulo Rievrs
 * **Age**: 21
 * **Living in**: Minas Gerais, Brazil
 * **Skills**: PHP, Laravel, Javascript, Typescript, React, React-Native, NestJS
+
+### Personal Projects
+ * 💰 **[Financial Organizer](https://github.com/paulorievrs/organizador-financeiro-web)**: A Financial Organizer project to help me and other people to register their stuff (Frontend).
+ * 💰 **[Financial Organizer]([https://github.com/paulorievrs/organizador-financeiro-web](https://github.com/paulorievrs/organizador-financeiro-pessoal-api))**: A Financial Organizer project to help me and other people to register their stuff (Backend).
+ * ☕ **[Java4Noobs](https://github.com/paulorievrs/java4noobs)**: A project that teaches Java for begginers.
+ * 🐬 **[MySQL4Noobs](https://github.com/paulorievrs/mysql4noobs)**: A project that teaches MySQL for begginers.
