@@ -12,23 +12,29 @@ Some repositories that I created to learn or to develop stuff for myself.
 
  ## Experience
  
-* Arctouch · Full-time (Mar/2022 - Now)
+* **Arctouch** · Full-time (Mar/2022 - Now)
   + **Skills:** React.js
  
-* Bernoulli · Full-time (Sep/2021 - Mar/2022)
+* **Bernoulli** · Full-time (Sep/2021 - Mar/2022)
   + Development and maintenance of Laravel systems
   + Development and maintenance of React Native systems (react-native-cli and expo)
   + Assistence in structuring of a new Laravel project, architecture creation, docker environment, classes standardization.
   + **Skills:** React Native · JavaScript · Laravel · PHP
+ 
+* **Teknisa** · Full-time (Mar/2021 - Sep/2021)
+  + Development systems in Laravel and React
+  + Creating a new project, creation the folder structure, defining standards of codes, pull requests reviews and teaching the new developers how to use the tools and frameworks.
+  + Team work with agil development (Scrum and Kanbam).
+  + **Skills:** Laravel · React.js · Oracle SQL Developer
   
-* Upflow · Freelance (Jan/2022 - Now)
+* **Upflow** · Freelance (Jan/2022 - Now)
   + Development of new features and solving bugs with NestJS;
   + Development of new features and solving bugs with Angular;
   + Development of new features and solving bugs with a SQL Server database;
   + **Skills:** NestJS · Microsoft SQL Server · AngularJS · JavaScript
 
  
-* GrupoMOV · Freelance (Jun/2019 - May/2022)
+* **GrupoMOV** · Freelance (Jun/2019 - May/2022)
   + Planning and creation of a MySQL database;
   + Planning and creation of mobile applications (React Native - expo)
   + Planning and creation of a REST API in Laravel;
