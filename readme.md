@@ -17,10 +17,8 @@
 
 * **Name**: Paulo Rievrs
 * **Age**: 21
-* **Living in**: Betim - Minas Gerais, Brazil
+* **Living in**: Minas Gerais, Brazil
 * **Skills**: PHP, Laravel, Javascript, Typescript, React, React-Native, NestJS
-* **Study**: PUC MINAS - Engenharia de Software (in course).
-
   
 
 # Github
