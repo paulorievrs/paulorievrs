@@ -1,8 +1,4 @@
-## Meu GitHub
-
-Some repositories that I created to learn or to develop stuff for myself.
-
-## Informações
+## Info
 
 * **Name**: Paulo Rievrs
 * **Age**: 21
