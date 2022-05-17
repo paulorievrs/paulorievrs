@@ -39,11 +39,8 @@ Some repositories that I created to learn or to develop stuff for myself.
   + Planning and creation of mobile applications (React Native - expo)
   + Planning and creation of a REST API in Laravel;
   + Planning and creation of a WEB app in ReactJS;
-
   + More de 100 users the applications made only by me. The costumers create the service calls for the admin company and the admin user directs the service call for a tech and him goes to the place and makes reports that can be converted to PDF.
-
   + Uptaded the projet for any company of forklift maintenance use.
-
   + [Website](https://chamados.grupomov.com.br)
   
 
