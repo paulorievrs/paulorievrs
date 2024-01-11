@@ -16,9 +16,9 @@
 ### Info
 
 * **Name**: Paulo Rievrs
-* **Age**: 21
+* **Age**: 23
 * **Living in**: Minas Gerais, Brazil
-* **Skills**: PHP, Laravel, Javascript, Typescript, React, React-Native, NestJS
+* **Skills**: PHP, Laravel, Javascript, Typescript, React, React-Native, NestJS, Node, Docker
 
 ### Personal Projects
  * 💰 **[Financial Organizer](https://github.com/paulorievrs/organizador-financeiro-web)**: A Financial Organizer project to help me and other people to register their stuff (Frontend).
