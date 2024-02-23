@@ -21,7 +21,7 @@
 * **Skills**: PHP, Laravel, Javascript, Typescript, React, React-Native, NestJS, Node, Docker
 
 ### Personal Projects
- * 💰 **[Financial Organizer](https://github.com/paulorievrs/organizador-financeiro-web)**: A Financial Organizer project to help me and other people to register their stuff (Frontend).
- * 💰 **[Financial Organizer](https://github.com/paulorievrs/organizador-financeiro-pessoal-api)**: A Financial Organizer project to help me and other people to register their stuff (Backend).
+ * 💰 **[Financial Organizer](https://github.com/paulorievrs/my-game-library-web)**: A social media to you sotre your game reviews (Frontend).
+ * 💰 **[Game Library API](https://github.com/paulorievrs/my-game-library-api)**: A social media to you sotre your game reviews (Backend).
  * ☕ **[Java4Noobs](https://github.com/paulorievrs/java4noobs)**: A project that teaches Java for begginers (in brazilian portuguease).
  * 🐬 **[MySQL4Noobs](https://github.com/paulorievrs/mysql4noobs)**: A project that teaches MySQL for begginers (in brazilian portuguease).
