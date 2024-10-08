@@ -7,7 +7,6 @@
 ### Info
 
 * **Name**: Paulo Rievrs
-* **Age**: 23
 * **Living in**: Minas Gerais, Brazil
 * **Skills**: PHP, Laravel, Javascript, Typescript, React, React-Native, NestJS, Node, Docker
 
